@@ -1,3 +1,5 @@
+
+# Es necesario contar con una instalación local del sistema de taggeado y de los parámetros para la lengua que se desee: https://www.cis.uni-muenchen.de/~schmid/tools/TreeTagger/
 library(koRpus)
 library("koRpus.lang.de") #Adaptar en función de la lengua de trabajo
 library(dplyr)
