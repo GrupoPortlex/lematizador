@@ -1,5 +1,5 @@
 library(koRpus)
-library("koRpus.lang.de") 
+library("koRpus.lang.de") #Adaptar en función de la lengua de trabajo
 library(dplyr)
 
 tagged.text <- treetag(
